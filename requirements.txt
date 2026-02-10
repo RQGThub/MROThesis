@@ -1,7 +1,6 @@
-Requirements:
-
 streamlit
 pandas
 numpy
 matplotlib
 openpyxl
+
